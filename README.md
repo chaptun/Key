@@ -1,7 +1,5 @@
-
-if Key == "NAHEE","A","B" then
+if Key == "NAHEE" or "A" or "B" then
 print("Work!!")
 
 end
-
 
